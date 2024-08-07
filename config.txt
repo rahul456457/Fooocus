@@ -1,24 +1,45 @@
 {
+
     "path_checkpoints": [
-        "C:\\Users\\yadav\\Downloads\\Compressed\\Fooocus_win64_2-5-0\\Fooocus_win64_2-5-0\\Fooocus\\models\\checkpoints"
+
+        "/home/test/pinokio/api/fooocus.git/app/models/checkpoints"
+
     ],
+
     "path_loras": [
-        "C:\\Users\\yadav\\Downloads\\Compressed\\Fooocus_win64_2-5-0\\Fooocus_win64_2-5-0\\Fooocus\\models\\loras"
+
+        "/home/test/pinokio/api/fooocus.git/app/models/loras"
+
     ],
-    "path_embeddings": "C:\\Users\\yadav\\Downloads\\Compressed\\Fooocus_win64_2-5-0\\Fooocus_win64_2-5-0\\Fooocus\\models\\embeddings",
-    "path_vae_approx": "C:\\Users\\yadav\\Downloads\\Compressed\\Fooocus_win64_2-5-0\\Fooocus_win64_2-5-0\\Fooocus\\models\\vae_approx",
-    "path_vae": "C:\\Users\\yadav\\Downloads\\Compressed\\Fooocus_win64_2-5-0\\Fooocus_win64_2-5-0\\Fooocus\\models\\vae",
-    "path_upscale_models": "C:\\Users\\yadav\\Downloads\\Compressed\\Fooocus_win64_2-5-0\\Fooocus_win64_2-5-0\\Fooocus\\models\\upscale_models",
-    "path_inpaint": "C:\\Users\\yadav\\Downloads\\Compressed\\Fooocus_win64_2-5-0\\Fooocus_win64_2-5-0\\Fooocus\\models\\inpaint",
-    "path_controlnet": "C:\\Users\\yadav\\Downloads\\Compressed\\Fooocus_win64_2-5-0\\Fooocus_win64_2-5-0\\Fooocus\\models\\controlnet",
-    "path_clip_vision": "C:\\Users\\yadav\\Downloads\\Compressed\\Fooocus_win64_2-5-0\\Fooocus_win64_2-5-0\\Fooocus\\models\\clip_vision",
-    "path_fooocus_expansion": "C:\\Users\\yadav\\Downloads\\Compressed\\Fooocus_win64_2-5-0\\Fooocus_win64_2-5-0\\Fooocus\\models\\prompt_expansion\\fooocus_expansion",
-    "path_wildcards": "C:\\Users\\yadav\\Downloads\\Compressed\\Fooocus_win64_2-5-0\\Fooocus_win64_2-5-0\\Fooocus\\wildcards",
-    "path_safety_checker": "C:\\Users\\yadav\\Downloads\\Compressed\\Fooocus_win64_2-5-0\\Fooocus_win64_2-5-0\\Fooocus\\models\\safety_checker",
-    "path_sam": "C:\\Users\\yadav\\Downloads\\Compressed\\Fooocus_win64_2-5-0\\Fooocus_win64_2-5-0\\Fooocus\\models\\sam",
-    "path_outputs": "C:\\Users\\yadav\\Downloads\\Compressed\\Fooocus_win64_2-5-0\\Fooocus_win64_2-5-0\\Fooocus\\outputs",
-    "temp_path": "C:\\Users\\yadav\\AppData\\Local\\Temp\\fooocus",
+
+    "path_embeddings": "/home/test/pinokio/api/fooocus.git/app/models/embeddings",
+
+    "path_vae_approx": "/home/test/pinokio/api/fooocus.git/app/models/vae_approx",
+
+    "path_vae": "/home/test/pinokio/api/fooocus.git/app/models/vae",
+
+    "path_upscale_models": "/home/test/pinokio/api/fooocus.git/app/models/upscale_models",
+
+    "path_inpaint": "/home/test/pinokio/api/fooocus.git/app/models/inpaint",
+
+    "path_controlnet": "/home/test/pinokio/api/fooocus.git/app/models/controlnet",
+
+    "path_clip_vision": "/home/test/pinokio/api/fooocus.git/app/models/clip_vision",
+
+    "path_fooocus_expansion": "/home/test/pinokio/api/fooocus.git/app/models/prompt_expansion/fooocus_expansion",
+
+    "path_wildcards": "/home/test/pinokio/api/fooocus.git/app/wildcards",
+
+    "path_safety_checker": "/home/test/pinokio/api/fooocus.git/app/models/safety_checker",
+
+    "path_sam": "/home/test/pinokio/api/fooocus.git/app/models/sam",
+
+    "path_outputs": "/home/test/pinokio/api/fooocus.git/app/outputs",
+
+    "temp_path": "/home/test/pinokio/cache/TMPDIR/fooocus",
+
     "temp_path_cleanup_on_launch": true,
+
     "default_model": "juggernautXL_v8Rundiffusion.safetensors",
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
