@@ -41,7 +41,7 @@
         "Fooocus Semi Realistic",
         "Fooocus Masterpiece"
     ],
-    "default_aspect_ratio": "896*1152",
+    "default_aspect_ratio": "1920*1080",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "animaPencilXL_v500.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/animaPencilXL_v500.safetensors"
