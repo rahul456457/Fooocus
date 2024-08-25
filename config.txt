@@ -110,6 +110,8 @@
     "embeddings_downloads": {},
     "vae_downloads": {},
     "available_aspect_ratios": [
+        "1080*2048",
+        "2160*3840", 
         "2048*1080",
         "3840*2160",
         "1920*1080",
